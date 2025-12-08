@@ -1,8 +1,3 @@
-# Barbers pagina
+# dit is de main repository HIER NIET IN WERKEN ALLEEN MERGEN!!!
 
-dit is de pagina met de barbers
-ben effe aan het testen
-nog een keer
-okettete
-nog een keer
-oketetete
+werk in je eigen bestand
