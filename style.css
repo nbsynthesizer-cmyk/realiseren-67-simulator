@@ -1,0 +1,39 @@
+nav {
+    background-color: #000000;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 15px;
+    border-radius: 2em;
+
+}
+
+a {
+    background-color: #343434;
+    padding: 10px;
+    border-radius: 5%;
+    outline-color:  #7A7A7A;
+    outline-width: 3%;
+    outline-style: solid;
+    color: white;
+    text-decoration: none;
+    width: 100px;
+    text-align: center;
+    margin: 10px;
+}
+a:hover {
+    color: #000000;
+    background-color: white;
+}
+
+
+
+body {
+    margin: 0%;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
